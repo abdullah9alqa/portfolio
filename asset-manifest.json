@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4be33b23.css",
+    "main.js": "/portfolio/static/js/main.8ecca6ce.js",
+    "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/Abdullah_Alqatarneh_ASPNET_Core_Developer_CV.pdf": "/portfolio/static/media/Abdullah_Alqatarneh_ASPNET_Core_Developer_CV.f46e86fd1080cf074f15.pdf",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.ed6dffecc5e37b8a4588.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/SQL.svg": "/portfolio/static/media/SQL.7fd9bdcee9744b3b731709f2753c68af.svg",
+    "static/media/Postman.svg": "/portfolio/static/media/Postman.6ad333ddb332edba5d093c0f6ef5ae00.svg",
+    "static/media/vscode.svg": "/portfolio/static/media/vscode.f5afdf1c4c0b365325db1e067c48782d.svg",
+    "static/media/Google Chrome.svg": "/portfolio/static/media/Google Chrome.e4cb7a8170c050a508f0bb06b5606529.svg",
+    "static/media/React.svg": "/portfolio/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/Javascript.svg": "/portfolio/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
+    "static/media/Git.svg": "/portfolio/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "static/media/Tailwind.svg": "/portfolio/static/media/Tailwind.24603c32961e3bfa937c29527c7931cb.svg",
+    "main.4be33b23.css.map": "/portfolio/static/css/main.4be33b23.css.map",
+    "main.8ecca6ce.js.map": "/portfolio/static/js/main.8ecca6ce.js.map",
+    "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4be33b23.css",
+    "static/js/main.8ecca6ce.js"
+  ]
+}
