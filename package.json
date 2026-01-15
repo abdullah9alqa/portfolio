@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://github.com/abdullah9alqa/test.git",
+    "name": "portfolio",
+  "homepage": "https://abdullah9alqa.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
